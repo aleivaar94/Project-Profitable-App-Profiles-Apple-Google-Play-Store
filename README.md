@@ -12,7 +12,9 @@ The objective of this project is to analyse Android and iOS app data to help dev
 ## Approach
 
 **1. Data Collection**
+    
     - Google Play Store is sourced from [Dataquest](https://dq-content.s3.amazonaws.com/350/googleplaystore.csv).
+    
     - Apple Store data is sourced from [Dataquest](https://dq-content.s3.amazonaws.com/350/AppleStore.csv).
     
 **2. Opening and Exploring the Data**
